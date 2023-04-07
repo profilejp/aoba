@@ -1,26 +1,16 @@
 theme = "identity"
 disableKinds = ['taxonomy', 'term']
-copyright = "2023 ProfileJP"
+copyright = "2023 プロフィール.com"
 
-baseURL = "https://profile.jp.net/sample/"
-title = "Sample - ProfileJP"
+baseURL = "https://プロフィール.com/aoba/"
+title = "TLC | プロフィール.com"
 
 [params]
-author = "Jane Doe"
-icon = "avatar"
-description = "CONGUE PELLENTESQUE ELEIFEND"
+author = "TLC"
+icon = "aoba"
+description = "PC/インフラ・ゲーム・気象・航空宇宙・写真・コーヒーなど・Enterpriseな機器や空が好き"
 
 [[params.social]]
 name = "twitter"
 icon = "brands fa-twitter"
-url = "https://twitter.com/"
-
-[[params.social]]
-name = "instagram"
-icon = "brands fa-instagram"
-url = "https://www.instagram.com/"
-
-[[params.social]]
-name = "facebook"
-icon = "brands fa-facebook"
-url = "https://www.facebook.com/"
+url = "https://twitter.com/intent/user?user_id=1115252417761689605"
